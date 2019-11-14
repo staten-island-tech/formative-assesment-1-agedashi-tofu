@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(
+        to bottom right,
+        rgba(255, 0, 0,.1),
+        rgba(255, 255, 0, .1)
+        ),
+        url(media/tiananmansquare.jpg); 
+  background-size: cover;
+  background-position: center;
+}
+
+div{
+}
+
+h1{
+    font-size: 80px;
+}
+
+h2{
+    font-size: 60px;
+}
